@@ -8,8 +8,6 @@ When contributing, please create a **pull request**.
 
 Scripts are written for "**bash**" shell.
 
-**Python** code is written at the [Python 3.6](https://docs.python.org/3.6/) level.
-
 # Code of Conduct
 
 Please note we have a [Code of Conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project and its community.
